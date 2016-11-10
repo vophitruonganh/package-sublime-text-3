@@ -1,0 +1,629 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"box-",
+				"box-shadow"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"media",
+				"@media\t@media ${1:screen} {\n\t${0}\n}"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"border-radius",
+				"border-top-right-radius"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"meida",
+				"@media"
+			],
+			[
+				"he",
+				"height\t.height()"
+			],
+			[
+				"getele",
+				"getElementsByClassName(names)\tElement"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fa",
+				"fadeOut\t.fadeOut()"
+			],
+			[
+				"window",
+				"window.screenX\tWindow"
+			],
+			[
+				"sc",
+				"scroll\tEvent"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"link",
+				"link\tTag"
+			],
+			[
+				"off",
+				"offset\t.offset()"
+			],
+			[
+				"top",
+				"top\tWindow"
+			],
+			[
+				"rea",
+				"ready\tjQuery(document).ready"
+			],
+			[
+				"fix",
+				"fixed"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"script",
+				"script\tTag"
+			],
+			[
+				"read",
+				"ready\t$(document).ready"
+			],
+			[
+				"lie",
+				"line-height"
+			],
+			[
+				"colum",
+				"columnWidth\tStyle CSS"
+			],
+			[
+				"quer",
+				"querySelector(selectors)\tElement"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"ip",
+				"iphone6s-plus-gold.png\tw:882 h:1075"
+			],
+			[
+				"mouse",
+				"mousedown\t.mousedown()"
+			],
+			[
+				"mou",
+				"mousemove\t.mousemove()"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"rbg",
+				"rgba()"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"twit",
+				"twitter-icon.png\tw:50 h:50"
+			],
+			[
+				"rs",
+				"icon-rsvp.png\tw:42 h:30"
+			],
+			[
+				"ns",
+				"nbsp\t&nbsp;"
+			],
+			[
+				"ima",
+				"images/"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"img",
+				"images/"
+			],
+			[
+				"js",
+				"justify"
+			],
+			[
+				"image",
+				"image:responsive\tresponsive"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"j",
+				"justify"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"doc",
+				"document\tDocument"
+			],
+			[
+				"backro",
+				"background-image"
+			],
+			[
+				"bak",
+				"background-image"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"style",
+				"style\tAttr"
+			],
+			[
+				"alr",
+				"alert(message)\tWindow"
+			],
+			[
+				"al",
+				"alert(message)\tWindow"
+			],
+			[
+				"le",
+				"left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "projec ma",
+		"selected_items":
+		[
+			[
+				"projec ma",
+				"Project Manager: Add Project"
+			],
+			[
+				"project",
+				"Project Manager"
+			],
+			[
+				"project ma",
+				"Project Manager: Add Project"
+			],
+			[
+				"project ",
+				"Project Manager"
+			],
+			[
+				"projec",
+				"Project Manager"
+			],
+			[
+				"proje",
+				"Project Manager"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sear",
+				"File: Search Files"
+			],
+			[
+				"open",
+				"Project Manager: Open Project"
+			],
+			[
+				"project opn",
+				"Project Manager: Open Project"
+			],
+			[
+				"project im",
+				"Project Manager: Import .sublime-project File"
+			],
+			[
+				"pro",
+				"Project Manager: Open Project"
+			],
+			[
+				"update",
+				"Nodejs::NPM::Update"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"power",
+				"Set Syntax: PowerShell"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 438.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Web/wamp/www/sellphone-business"
+	],
+	"file_history":
+	[
+		"/D/Downloads/Compressed/digitalzone/public/css/style-global.css",
+		"/D/Web/wamp/www/sellphone-business/database/migrations/2016_08_05_070006_products.php",
+		"/D/Web/wamp/www/sellphone-business/config/database.php",
+		"/D/Web/wamp/www/sellphone-business/.env",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/User/Projects/sellphone.sublime-project",
+		"/D/Web/masonry/demo/public/css/style.css",
+		"/D/Web/masonry/demo/index.html",
+		"/D/Web/masonry/demo/public/css/style-masonry.css",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Web/masonry/demo/index.php",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/User/Projects/masonry.sublime-project",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/User/project_manager.sublime-settings",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/ProjectManager/project_manager.sublime-settings",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/User/Projects/Masonry.sublime-project",
+		"/D/Web/wamp/www/intesco/resources/views/layouts/teamplates/header.blade.php",
+		"/D/Web/wamp/www/intesco/public/js/scrolling-nav.js",
+		"/D/Web/masonry/demo/public/js/scroll.js",
+		"/D/Web/masonry/demo/public/js/jquery.min.js",
+		"/D/Web/masonry/demo/public/js/jquery-ui.min.js",
+		"/D/Web/wamp/www/intesco/public/css/scrolling-nav.css",
+		"/D/Web/wamp/www/intesco/resources/views/layouts/teamplates/navigation.blade.php",
+		"/D/Web/baitap/baitapcuoiky/public/css/style-global.css",
+		"/D/Web/teamplates website/store/1/index.html",
+		"/D/Web/baitap/baitapcuoiky/index.html",
+		"/D/Web/masonry/demo/public/js/masonry.js",
+		"/D/Web/baitap/baitapcuoiky/form.html",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/Web/masonry/demo/npm-debug.log",
+		"/D/Web/teamplates website/store/1/public/css/style-global.css",
+		"/D/Web/teamplates website/store/1/public/css/bootstrap-theme.css.map",
+		"/D/Web/teamplates website/store/1/public/css/bootstrap-theme.css",
+		"/D/Web/baitap/BaiTapVanilla/BaiTapVanilla/style.css",
+		"/D/Web/baitap/BaiTapVanilla/BaiTapVanilla/index.html",
+		"/D/Web/baitap/baitapcuoiky/public/css/bootstrap.css",
+		"/D/Web/baitap/baitapcuoiky/public/css/bootstrap-theme.css",
+		"/D/Web/baitap/baitapcuoiky/public/css/bootstrap.css.map",
+		"/D/Web/baitap/baitapcuoiky/public/css/bootstrap.min.css",
+		"/D/Web/baitap/baitapcuoiky/public/js/bootstrap.min.js",
+		"/D/Web/baitap/baitapcuoiky/public/js/jquery.1.12.4.min.js",
+		"/D/Web/baitap/baitapcuoiky/public/css/bootstrap.min.css.map",
+		"/D/Web/baitap/baitapcuoiky/public/js/npm.js",
+		"/D/Web/teamplate/layout-bussiness/public/css/bootstrap.css",
+		"/D/Web/teamplate/layout-bussiness/index.html",
+		"/D/Downloads/Compressed/masonry-docs/masonry-docs/css/masonry-docs.css",
+		"/D/Web/teamplate/layout-bussiness/public/css/style-global.css",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/D/Web/wamp/www/banhangonline/resources/views/frontend/main.blade.php",
+		"/D/Web/wamp/www/bussiness/resources/views/site/main.blade.php",
+		"/D/Web/teamplate/layout-bussiness/public/css/bootstrap.min.css",
+		"/D/Web/wamp/www/bussiness/app/Http/routes.php",
+		"/D/Web/wamp/www/bussiness/app/Http/Controllers/HomeController.php",
+		"/D/Web/web-basic/index.html",
+		"/D/Web/web-basic/style-global.css",
+		"/D/Web/web-basic/demo.html",
+		"/D/Amazon.com  the art of programming  Amazon Video.htm",
+		"/D/Downloads/Compressed/site/demo.html",
+		"/D/Downloads/Compressed/site/style.css",
+		"/C/Users/TRUONGANH/AppData/Local/Packages/microsoft.windowscommunicationsapps_8wekyb3d8bbwe/LocalState/Files/601/637968/style [712378].css",
+		"/D/Web/wamp/www/bussiness/app/Http/Controllers/Controller.php",
+		"/D/Web/wamp/www/bussiness/app/Http/Controllers/ProductController.php",
+		"/D/Web/wamp/www/bussiness/resources/views/welcome.blade.php",
+		"/D/Web/wamp/www/bussiness/gulpfile.js",
+		"/D/Web/web-basic/style.css",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/Laravel 5 Artisan/Laravel 5 Artisan.sublime-settings",
+		"/D/Web/wamp/www/banhangonline/artisan",
+		"/D/Web/wamp/www/banhangonline/composer.json",
+		"/D/Web/wamp/www/banhangonline/app/Http/Controllers/IndexController.php",
+		"/D/Web/wamp/www/banhangonline/app/Http/Controllers/ProductController.php",
+		"/D/Web/wamp/www/banhangonline/app/Http/Controllers/Controller.php",
+		"/D/Web/wamp/www/banhangonline/app/Http/routes.php",
+		"/D/Web/wamp/www/banhangonline/public/css/app.css",
+		"/D/Web/wamp/www/bussiness/node_modules/jquery/dist/jquery.js",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+		"/D/Web/wamp/www/bussiness/tests/TestCase.php",
+		"/D/Web/wamp/www/bussiness/tests/ExampleTest.php",
+		"/D/Web/wamp/www/bussiness/.env.example",
+		"/D/Web/wamp/www/bussiness/.env",
+		"/D/Web/wamp/www/bussiness/.gitignore",
+		"/D/Web/wamp/www/digitalzone/site/views/feature.php",
+		"/D/Web/wamp/www/digitalzone/site/views/header.php",
+		"/D/Web/wamp/www/digitalzone/site/views/login.php",
+		"/D/Web/wamp/www/digitalzone/site/views/livesearch.php",
+		"/D/Web/wamp/www/digitalzone/site/views/navigation.php",
+		"/D/Web/wamp/www/digitalzone/site/views/smartphone/index.php",
+		"/D/Web/wamp/www/digitalzone/site/views/smartphone/detail.php",
+		"/D/Web/wamp/www/digitalzone/public/css/custom.css",
+		"/D/Web/wamp/www/digitalzone/public/css/bootstrap.min.theme.css",
+		"/D/Web/wamp/www/digitalzone/public/css/bootstrap.min.css",
+		"/D/Web/wamp/www/banhangonline/resources/views/frontend/product.blade.php",
+		"/D/Web/wamp/www/banhangonline/resources/views/frontend/detail.blade.php",
+		"/D/style.css",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 136.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"--height",
+			"E01339",
+			"D40B30",
+			"E01339",
+			"bold_folder_labels",
+			"box",
+			"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\t<meta charset=\"UTF-8\">\n\t<link rel=\"stylesheet\" href=\"public/css/bootstrap.min.css\">\n    <script src=\"public/js/jquery.1.12.4.min.js\"></script>\n    <script src=\"public/js/bootstrap.min.js\"></script>\n    <script src=\"https://npmcdn.com/masonry-layout@4.1/dist/masonry.pkgd.js\"></script>\n\n    <link rel=\"stylesheet\" href=\"public/css/style-global.css\">\n\t<title>Mobile Store</title>\n\t<script type=\"text/javascript\">\n\t\tjQuery(document).ready(function($) {\n\t\t\t$('.navbar-nav li').click(function(event) {\n\n\t\t\t\t$('.navbar-nav li').removeClass('active');\n\t\t\t\t$(this).addClass('active');\n\n\t\t\t});\n\t\t});\n\t</script>\n</head>\n<body>\n\t<div class=\"container-full\">\n\t\t<header class=\"container-fluid\">\n\t\t\t<nav class=\"navbar navbar-customs navbar-fixed-top\">\n\t\t\t\t<div class=\"container-fluid\">\n\t\t\t\t\t<div class=\"navbar-header\">\n\t\t\t\t\t\t<button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\"#navbar\">\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t\t<span class=\"icon-bar\"></span>\n\t\t\t\t\t\t</button>\n\t\t\t\t\t\t<a class=\"navbar-brand\" href=\"#\">DIGITAL ZONE</a>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"collapse navbar-collapse\" id=\"navbar\">\n\t\t\t\t\t\t<ul class=\"nav navbar-nav\">\n\t\t\t\t\t\t\t<li class=\"active\"><a href=\"#\">LAPTOP</a></li>\n\t\t\t\t\t\t\t<li><a href=\"#\">SMARTS PHONE</a></li>\n\t\t\t\t\t\t\t<li><a href=\"#\">TABLET</a></li>\n\t\t\t\t\t\t\t<li><a href=\"#\">ACCESSORIES</a></li>\n\t\t\t\t\t\t\t<li><a href=\"#\">PHONE</a></li>\n\t\t\t\t\t\t\t<li><a href=\"#\">TABLES</a></li>\n\t\t\t\t\t\t\t<li><a href=\"#\">SERVICES</a></li>\n\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t<ul class=\"nav navbar-nav navbar-right\">\n\t\t\t\t\t\t\t<li><a href=\"#\"><span class=\"glyphicon glyphicon-user\"></span> Sign Up</a></li>\n\t\t\t\t\t\t\t<li><a href=\"#\"><span class=\"glyphicon glyphicon-log-in\"></span> Login</a></li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</nav>\n\t\t</header>\n\t\t<div class=\"container-fluid .features\">\n\t\t\t<div class=\"row\">\n\t\t\t\t<div class=\"col-lg-7\">\n\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t<div class=\"feature-cost\">\n\t\t\t\t\t\t\t<div class=\"cost-arrow\"></div>\n\t\t\t\t\t\t\t<h3>CREADIT AT</h3>\n\t\t\t\t\t\t\t<h1>0%</h1>\n\t\t\t\t\t\t</div>\n\n\t\t\t\t\t</div>\n\t\t\t\t\t<img src=\"public/images/iphone6s-plus-gold.png\" class=\"img-responsive\" alt=\"image product\">\n\t\t\t\t</div>\n\t\t\t\t<div class=\"col-lg-5\">\n\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t<div class=\"col-lg-12 feature-info\">\n\t\t\t\t\t\t\t<h1>What is Lorem Ipsum?</h1>\n\t\t\t\t\t\t\t<h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</h5>\n\t\t\t\t\t\t</div>\n\n\t\t\t\t\t\t<div class=\"col-lg-12 feature-info\">\n\n\t\t\t\t\t\t<button type=\"button\" class=\"btn btn-success\">From 199 <sup>$</sup></button>\n\t\t\t\t\t\t<button type=\"button\" class=\"btn btn-danger\">Click Order</button>\n\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\n\t\t\t\t</div>\n\n\t\t\t</div>\n\t\t\t<div class=\"row\">\n\t\t\t\t\t<div class=\"col-lg-3\">\n\t\t\t\t\t\t<h1>alo</h1>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"col-lg-3\">\n\t\t\t\t\t\t<h1>alo</h1>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"col-lg-3\">\n\t\t\t\t\t\t<h1>alo</h1>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"col-lg-3\">\n\t\t\t\t\t\t<h1>alo</h1>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t</div>\n\t\t<main class=\"container-full\">\n\t\t\t<div class=\"container-full .main\">\n\n\n\t\t\t\t<div class=\"col-lg-12\">\n\t\t\t\t\t<div class=\"col-lg-2 box \">\n\t\t\t\t\t\t<img src=\"public/images/iphone6s-plus-gold.png\" class=\"img-responsive\" alt=\"\">\n\t\t\t\t\t\t<h3><a href=\"#\">Product Name</a></h3>\n\t\t\t\t\t\t<p>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"col-lg-2 box \">\n\t\t\t\t\t\t<img src=\"public/images/iphone6s-plus-gold.png\" class=\"img-responsive\" alt=\"\">\n\t\t\t\t\t\t<h3><a href=\"#\">Product Name</a></h3>\n\t\t\t\t\t\t<p>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"col-lg-2 box \">\n\t\t\t\t\t\t<img src=\"public/images/iphone6s-plus-gold.png\" class=\"img-responsive\" alt=\"\">\n\t\t\t\t\t\t<h3><a href=\"#\">Product Name</a></h3>\n\t\t\t\t\t\t<p>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"col-lg-2 box \">\n\t\t\t\t\t\t<img src=\"public/images/iphone6s-plus-gold.png\" class=\"img-responsive\" alt=\"\">\n\t\t\t\t\t\t<h3><a href=\"#\">Product Name</a></h3>\n\t\t\t\t\t\t<p>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"col-lg-2 box \">\n\t\t\t\t\t\t<img src=\"public/images/iphone6s-plus-gold.png\" class=\"img-responsive\" alt=\"\">\n\t\t\t\t\t\t<h3><a href=\"#\">Product Name</a></h3>\n\t\t\t\t\t\t<p>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"col-lg-2 box \">\n\t\t\t\t\t\t<img src=\"public/images/iphone6s-plus-gold.png\" class=\"img-responsive\" alt=\"\">\n\t\t\t\t\t\t<h3><a href=\"#\">Product Name</a></h3>\n\t\t\t\t\t\t<p>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"col-lg-2 box \">\n\t\t\t\t\t\t<img src=\"public/images/iphone6s-plus-gold.png\" class=\"img-responsive\" alt=\"\">\n\t\t\t\t\t\t<h3><a href=\"#\">Product Name</a></h3>\n\t\t\t\t\t\t<p>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"col-lg-2 box \">\n\t\t\t\t\t\t<img src=\"public/images/iphone6s-plus-gold.png\" class=\"img-responsive\" alt=\"\">\n\t\t\t\t\t\t<h3><a href=\"#\">Product Name</a></h3>\n\t\t\t\t\t\t<p>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"col-lg-2 box \">\n\t\t\t\t\t\t<img src=\"public/images/iphone6s-plus-gold.png\" class=\"img-responsive\" alt=\"\">\n\t\t\t\t\t\t<h3><a href=\"#\">Product Name</a></h3>\n\t\t\t\t\t\t<p>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"col-lg-2 box \">\n\t\t\t\t\t\t<img src=\"public/images/iphone6s-plus-gold.png\" class=\"img-responsive\" alt=\"\">\n\t\t\t\t\t\t<h3><a href=\"#\">Product Name</a></h3>\n\t\t\t\t\t\t<p>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"col-lg-2 box \">\n\t\t\t\t\t\t<img src=\"public/images/iphone6s-plus-gold.png\" class=\"img-responsive\" alt=\"\">\n\t\t\t\t\t\t<h3><a href=\"#\">Product Name</a></h3>\n\t\t\t\t\t\t<p>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>\n\t\t\t\t\t</div>\n\n\t\t\t\t</div>\n\n\n\t\t\t</div>\n\t\t</main>\n\t\t<footer class=\"container-full\">footer</footer>\n\t</div>\n</body>\n</html>",
+			"box",
+			" \">",
+			"\t\t\t\t\n",
+			"grid-item",
+			">\n",
+			"min-width",
+			"min-width: 320px;",
+			"@media",
+			"\t\t</",
+			">\n",
+			"<div class=\"col-lg-4\">alo</div>",
+			"main",
+			"\t\t\t\n",
+			".navbar",
+			"navbar",
+			".navbar",
+			".active",
+			"active",
+			"container",
+			"navbar",
+			"navbar-br",
+			"css"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sellphone-business.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Web\\masonry\\demo\\masonry-demo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

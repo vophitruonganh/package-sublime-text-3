@@ -1,0 +1,727 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"contain"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"input",
+				"inputf	input - file"
+			],
+			[
+				"border-radi",
+				"border-top-left-radius"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"box-",
+				"box-shadow"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"media",
+				"@media	@media ${1:screen} {\n	${0}\n}"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"border-radius",
+				"border-top-right-radius"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"meida",
+				"@media"
+			],
+			[
+				"he",
+				"height	.height()"
+			],
+			[
+				"getele",
+				"getElementsByClassName(names)	Element"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fa",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"window",
+				"window.screenX	Window"
+			],
+			[
+				"sc",
+				"scroll	Event"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"link",
+				"link	Tag"
+			],
+			[
+				"off",
+				"offset	.offset()"
+			],
+			[
+				"top",
+				"top	Window"
+			],
+			[
+				"rea",
+				"ready	jQuery(document).ready"
+			],
+			[
+				"fix",
+				"fixed"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"lie",
+				"line-height"
+			],
+			[
+				"colum",
+				"columnWidth	Style CSS"
+			],
+			[
+				"quer",
+				"querySelector(selectors)	Element"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ip",
+				"iphone6s-plus-gold.png	w:882 h:1075"
+			],
+			[
+				"mouse",
+				"mousedown	.mousedown()"
+			],
+			[
+				"mou",
+				"mousemove	.mousemove()"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"rbg",
+				"rgba()"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"twit",
+				"twitter-icon.png	w:50 h:50"
+			],
+			[
+				"rs",
+				"icon-rsvp.png	w:42 h:30"
+			],
+			[
+				"ns",
+				"nbsp	&nbsp;"
+			],
+			[
+				"ima",
+				"images/"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"img",
+				"images/"
+			],
+			[
+				"js",
+				"justify"
+			],
+			[
+				"image",
+				"image:responsive	responsive"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"j",
+				"justify"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"doc",
+				"document	Document"
+			],
+			[
+				"backro",
+				"background-image"
+			],
+			[
+				"bak",
+				"background-image"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"style",
+				"style	Attr"
+			],
+			[
+				"alr",
+				"alert(message)	Window"
+			],
+			[
+				"al",
+				"alert(message)	Window"
+			],
+			[
+				"le",
+				"left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/Web/baitap/baitapcuoiky/index.html",
+			"settings":
+			{
+				"buffer_size": 19743,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nMaterial Theme\n--------------\n\n  #### Material Theme for Sublime Text 3\n  \n  ## Version 3.1.9\n  \n  ☢️ **************************************************************\n      After update, and before open a new \"already-closed\" issue run:\n      **\"Package Control: Satisfy Dependencies\"**\n  ☢️ **************************************************************\n  \n  📣 BUGFIXES:\n    - fix: Sorted options inside the theme configurator\n    - fix: Fix disable_folder_animation option \n    - Fix schemes with new mdpopups ([2babeb7](https://github.com/equinusocio/material-theme/commit/2babeb7))\n    - R file type icon ([5e2ee0d](https://github.com/equinusocio/material-theme/commit/5e2ee0d))\n    - update configurator styles to support the latest mdpopups ([ac03484](https://github.com/equinusocio/material-theme/commit/ac03484))\n  \n  \n  ********************************************************************************\n  \n  ** Check the official changelog ( https://github.com/equinusocio/material-theme/blob/master/CHANGELOG.md  ) **\n",
+			"settings":
+			{
+				"buffer_size": 1075,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "INSTALL",
+		"selected_items":
+		[
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"project",
+				"Project Manager"
+			],
+			[
+				"proje",
+				"Project Manager"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"projec",
+				"Project Manager"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sear",
+				"File: Search Files"
+			],
+			[
+				"open",
+				"Project Manager: Open Project"
+			],
+			[
+				"project opn",
+				"Project Manager: Open Project"
+			],
+			[
+				"project im",
+				"Project Manager: Import .sublime-project File"
+			],
+			[
+				"pro",
+				"Project Manager: Open Project"
+			],
+			[
+				"update",
+				"Nodejs::NPM::Update"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"power",
+				"Set Syntax: PowerShell"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 454.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Web/baitap/baitapcuoiky",
+		"/D/Web/baitap/baitapcuoiky/public"
+	],
+	"file_history":
+	[
+		"/D/Web/baitap/baitapcuoiky/index.html",
+		"/D/Web/baitap/baitapcuoiky/public/css/style-browser.css",
+		"/D/Web/baitap/baitapcuoiky/public/css/style-global.css",
+		"/D/Web/baitap/baitapcuoiky/public/css/bootstrap.css.map",
+		"/D/Web/baitap/baitapcuoiky/public/js/bootstrap.js",
+		"/D/Web/baitap/baitapcuoiky/public/js/bootstrap.min.js",
+		"/D/Web/baitap/baitapcuoiky/public/js/jquery.1.12.4.min.js",
+		"/D/Web/baitap/baitapcuoiky/public/js/npm.js",
+		"/D/Web/baitap/baitapcuoiky/public/images/icon-rsvp.png",
+		"/D/Web/baitap/baitapcuoiky/demo.html",
+		"/D/Web/baitap/baitapcuoiky/public/css/style-custom.css",
+		"/D/Web/ribbon-3d-css/masonry/demo/index.php",
+		"/D/Web/masonry/demo/index.html",
+		"/D/Web/masonry/demo/index.php",
+		"/C/Users/TRUONGANH/AppData/Local/Temp/Rar$DIa0.299/index.php",
+		"/D/Web/masonry/demo/public/css/style.css",
+		"/D/Web/masonry/demo/public/css/style-masonry.css",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/User/Projects/masonry.sublime-project",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/User/project_manager.sublime-settings",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/ProjectManager/project_manager.sublime-settings",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/User/Projects/Masonry.sublime-project",
+		"/D/Web/wamp/www/intesco/resources/views/layouts/teamplates/header.blade.php",
+		"/D/Web/wamp/www/intesco/public/js/scrolling-nav.js",
+		"/D/Web/masonry/demo/public/js/scroll.js",
+		"/D/Web/masonry/demo/public/js/jquery.min.js",
+		"/D/Web/masonry/demo/public/js/jquery-ui.min.js",
+		"/D/Web/wamp/www/intesco/public/css/scrolling-nav.css",
+		"/D/Web/wamp/www/intesco/resources/views/layouts/teamplates/navigation.blade.php",
+		"/D/Web/teamplates website/store/1/index.html",
+		"/D/Web/masonry/demo/public/js/masonry.js",
+		"/D/Web/baitap/baitapcuoiky/form.html",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/Web/masonry/demo/npm-debug.log",
+		"/D/Web/teamplates website/store/1/public/css/style-global.css",
+		"/D/Web/teamplates website/store/1/public/css/bootstrap-theme.css.map",
+		"/D/Web/teamplates website/store/1/public/css/bootstrap-theme.css",
+		"/D/Web/baitap/BaiTapVanilla/BaiTapVanilla/style.css",
+		"/D/Web/baitap/BaiTapVanilla/BaiTapVanilla/index.html",
+		"/D/Web/baitap/baitapcuoiky/public/css/bootstrap.css",
+		"/D/Web/baitap/baitapcuoiky/public/css/bootstrap-theme.css",
+		"/D/Web/baitap/baitapcuoiky/public/css/bootstrap.min.css",
+		"/D/Web/baitap/baitapcuoiky/public/css/bootstrap.min.css.map",
+		"/D/Web/teamplate/layout-bussiness/public/css/bootstrap.css",
+		"/D/Web/teamplate/layout-bussiness/index.html",
+		"/D/Downloads/Compressed/masonry-docs/masonry-docs/css/masonry-docs.css",
+		"/D/Web/teamplate/layout-bussiness/public/css/style-global.css",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/D/Web/wamp/www/banhangonline/resources/views/frontend/main.blade.php",
+		"/D/Web/wamp/www/bussiness/resources/views/site/main.blade.php",
+		"/D/Web/teamplate/layout-bussiness/public/css/bootstrap.min.css",
+		"/D/Web/wamp/www/bussiness/app/Http/routes.php",
+		"/D/Web/wamp/www/bussiness/app/Http/Controllers/HomeController.php",
+		"/D/Web/web-basic/index.html",
+		"/D/Web/web-basic/style-global.css",
+		"/D/Web/web-basic/demo.html",
+		"/D/Amazon.com  the art of programming  Amazon Video.htm",
+		"/D/Downloads/Compressed/site/demo.html",
+		"/D/Downloads/Compressed/site/style.css",
+		"/C/Users/TRUONGANH/AppData/Local/Packages/microsoft.windowscommunicationsapps_8wekyb3d8bbwe/LocalState/Files/601/637968/style [712378].css",
+		"/D/Web/wamp/www/bussiness/app/Http/Controllers/Controller.php",
+		"/D/Web/wamp/www/bussiness/app/Http/Controllers/ProductController.php",
+		"/D/Web/wamp/www/bussiness/resources/views/welcome.blade.php",
+		"/D/Web/wamp/www/bussiness/gulpfile.js",
+		"/D/Web/web-basic/style.css",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/Laravel 5 Artisan/Laravel 5 Artisan.sublime-settings",
+		"/D/Web/wamp/www/banhangonline/artisan",
+		"/D/Web/wamp/www/banhangonline/composer.json",
+		"/D/Web/wamp/www/banhangonline/app/Http/Controllers/IndexController.php",
+		"/D/Web/wamp/www/banhangonline/app/Http/Controllers/ProductController.php",
+		"/D/Web/wamp/www/banhangonline/app/Http/Controllers/Controller.php",
+		"/D/Web/wamp/www/banhangonline/app/Http/routes.php",
+		"/D/Web/wamp/www/banhangonline/public/css/app.css",
+		"/D/Web/wamp/www/bussiness/node_modules/jquery/dist/jquery.js",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+		"/D/Web/wamp/www/bussiness/tests/TestCase.php",
+		"/D/Web/wamp/www/bussiness/tests/ExampleTest.php",
+		"/D/Web/wamp/www/bussiness/.env.example",
+		"/D/Web/wamp/www/bussiness/.env",
+		"/D/Web/wamp/www/bussiness/.gitignore",
+		"/D/Web/wamp/www/digitalzone/site/views/feature.php",
+		"/D/Web/wamp/www/digitalzone/site/views/header.php",
+		"/D/Web/wamp/www/digitalzone/site/views/login.php",
+		"/D/Web/wamp/www/digitalzone/site/views/livesearch.php",
+		"/D/Web/wamp/www/digitalzone/site/views/navigation.php",
+		"/D/Web/wamp/www/digitalzone/site/views/smartphone/index.php",
+		"/D/Web/wamp/www/digitalzone/site/views/smartphone/detail.php",
+		"/D/Web/wamp/www/digitalzone/public/css/custom.css",
+		"/D/Web/wamp/www/digitalzone/public/css/bootstrap.min.theme.css",
+		"/D/Web/wamp/www/digitalzone/public/css/bootstrap.min.css",
+		"/D/Web/wamp/www/banhangonline/resources/views/frontend/product.blade.php",
+		"/D/Web/wamp/www/banhangonline/resources/views/frontend/detail.blade.php",
+		"/D/style.css",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/TRUONGANH/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 136.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'Quicksand'",
+			"Quicksand",
+			"--height",
+			"E01339",
+			"D40B30",
+			"E01339",
+			"bold_folder_labels",
+			"box",
+			"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n	<meta charset=\"UTF-8\">\n	<link rel=\"stylesheet\" href=\"public/css/bootstrap.min.css\">\n    <script src=\"public/js/jquery.1.12.4.min.js\"></script>\n    <script src=\"public/js/bootstrap.min.js\"></script>\n    <script src=\"https://npmcdn.com/masonry-layout@4.1/dist/masonry.pkgd.js\"></script>\n\n    <link rel=\"stylesheet\" href=\"public/css/style-global.css\">\n	<title>Mobile Store</title>\n	<script type=\"text/javascript\">\n		jQuery(document).ready(function($) {\n			$('.navbar-nav li').click(function(event) {\n\n				$('.navbar-nav li').removeClass('active');\n				$(this).addClass('active');\n\n			});\n		});\n	</script>\n</head>\n<body>\n	<div class=\"container-full\">\n		<header class=\"container-fluid\">\n			<nav class=\"navbar navbar-customs navbar-fixed-top\">\n				<div class=\"container-fluid\">\n					<div class=\"navbar-header\">\n						<button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\"#navbar\">\n							<span class=\"icon-bar\"></span>\n							<span class=\"icon-bar\"></span>\n							<span class=\"icon-bar\"></span>\n						</button>\n						<a class=\"navbar-brand\" href=\"#\">DIGITAL ZONE</a>\n					</div>\n					<div class=\"collapse navbar-collapse\" id=\"navbar\">\n						<ul class=\"nav navbar-nav\">\n							<li class=\"active\"><a href=\"#\">LAPTOP</a></li>\n							<li><a href=\"#\">SMARTS PHONE</a></li>\n							<li><a href=\"#\">TABLET</a></li>\n							<li><a href=\"#\">ACCESSORIES</a></li>\n							<li><a href=\"#\">PHONE</a></li>\n							<li><a href=\"#\">TABLES</a></li>\n							<li><a href=\"#\">SERVICES</a></li>\n\n						</ul>\n						<ul class=\"nav navbar-nav navbar-right\">\n							<li><a href=\"#\"><span class=\"glyphicon glyphicon-user\"></span> Sign Up</a></li>\n							<li><a href=\"#\"><span class=\"glyphicon glyphicon-log-in\"></span> Login</a></li>\n						</ul>\n					</div>\n				</div>\n			</nav>\n		</header>\n		<div class=\"container-fluid .features\">\n			<div class=\"row\">\n				<div class=\"col-lg-7\">\n					<div class=\"row\">\n						<div class=\"feature-cost\">\n							<div class=\"cost-arrow\"></div>\n							<h3>CREADIT AT</h3>\n							<h1>0%</h1>\n						</div>\n\n					</div>\n					<img src=\"public/images/iphone6s-plus-gold.png\" class=\"img-responsive\" alt=\"image product\">\n				</div>\n				<div class=\"col-lg-5\">\n					<div class=\"row\">\n						<div class=\"col-lg-12 feature-info\">\n							<h1>What is Lorem Ipsum?</h1>\n							<h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</h5>\n						</div>\n\n						<div class=\"col-lg-12 feature-info\">\n\n						<button type=\"button\" class=\"btn btn-success\">From 199 <sup>$</sup></button>\n						<button type=\"button\" class=\"btn btn-danger\">Click Order</button>\n\n						</div>\n					</div>\n\n				</div>\n\n			</div>\n			<div class=\"row\">\n					<div class=\"col-lg-3\">\n						<h1>alo</h1>\n					</div>\n					<div class=\"col-lg-3\">\n						<h1>alo</h1>\n					</div>\n					<div class=\"col-lg-3\">\n						<h1>alo</h1>\n					</div>\n					<div class=\"col-lg-3\">\n						<h1>alo</h1>\n					</div>\n				</div>\n		</div>\n		<main class=\"container-full\">\n			<div class=\"container-full .main\">\n\n\n				<div class=\"col-lg-12\">\n					<div class=\"col-lg-2 box \">\n						<img src=\"public/images/iphone6s-plus-gold.png\" class=\"img-responsive\" alt=\"\">\n						<h3><a href=\"#\">Product Name</a></h3>\n						<p>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>\n					</div>\n					<div class=\"col-lg-2 box \">\n						<img src=\"public/images/iphone6s-plus-gold.png\" class=\"img-responsive\" alt=\"\">\n						<h3><a href=\"#\">Product Name</a></h3>\n						<p>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>\n					</div>\n					<div class=\"col-lg-2 box \">\n						<img src=\"public/images/iphone6s-plus-gold.png\" class=\"img-responsive\" alt=\"\">\n						<h3><a href=\"#\">Product Name</a></h3>\n						<p>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>\n					</div>\n					<div class=\"col-lg-2 box \">\n						<img src=\"public/images/iphone6s-plus-gold.png\" class=\"img-responsive\" alt=\"\">\n						<h3><a href=\"#\">Product Name</a></h3>\n						<p>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>\n					</div>\n					<div class=\"col-lg-2 box \">\n						<img src=\"public/images/iphone6s-plus-gold.png\" class=\"img-responsive\" alt=\"\">\n						<h3><a href=\"#\">Product Name</a></h3>\n						<p>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>\n					</div>\n					<div class=\"col-lg-2 box \">\n						<img src=\"public/images/iphone6s-plus-gold.png\" class=\"img-responsive\" alt=\"\">\n						<h3><a href=\"#\">Product Name</a></h3>\n						<p>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>\n					</div>\n					<div class=\"col-lg-2 box \">\n						<img src=\"public/images/iphone6s-plus-gold.png\" class=\"img-responsive\" alt=\"\">\n						<h3><a href=\"#\">Product Name</a></h3>\n						<p>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>\n					</div>\n					<div class=\"col-lg-2 box \">\n						<img src=\"public/images/iphone6s-plus-gold.png\" class=\"img-responsive\" alt=\"\">\n						<h3><a href=\"#\">Product Name</a></h3>\n						<p>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>\n					</div>\n					<div class=\"col-lg-2 box \">\n						<img src=\"public/images/iphone6s-plus-gold.png\" class=\"img-responsive\" alt=\"\">\n						<h3><a href=\"#\">Product Name</a></h3>\n						<p>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>\n					</div>\n					<div class=\"col-lg-2 box \">\n						<img src=\"public/images/iphone6s-plus-gold.png\" class=\"img-responsive\" alt=\"\">\n						<h3><a href=\"#\">Product Name</a></h3>\n						<p>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>\n					</div>\n					<div class=\"col-lg-2 box \">\n						<img src=\"public/images/iphone6s-plus-gold.png\" class=\"img-responsive\" alt=\"\">\n						<h3><a href=\"#\">Product Name</a></h3>\n						<p>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>\n					</div>\n\n				</div>\n\n\n			</div>\n		</main>\n		<footer class=\"container-full\">footer</footer>\n	</div>\n</body>\n</html>",
+			"box",
+			" \">",
+			"				\n",
+			"grid-item",
+			">\n",
+			"min-width",
+			"min-width: 320px;",
+			"@media",
+			"		</",
+			">\n",
+			"<div class=\"col-lg-4\">alo</div>",
+			"main",
+			"			\n",
+			".navbar",
+			"navbar",
+			".navbar",
+			".active",
+			"active",
+			"container",
+			"navbar",
+			"navbar-br",
+			"css"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'Quicksand-Regular'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/Web/baitap/baitapcuoiky/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19743,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6447.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1075,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1075,
+								1075
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"default_dir": "D:\\Web\\baitap\\baitapcuoiky",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "baitapcuoiky.sublime-project",
+	"replace":
+	{
+		"height": 92.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Web\\masonry\\demo\\masonry-demo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

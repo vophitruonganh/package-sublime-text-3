@@ -1,0 +1,738 @@
+{
+	"folder_history":
+	[
+		"/E/NodeJs/baitap1",
+		"/C/Web/wamp/www/digitalzone",
+		"/C/Web/wamp/www/digitalzone_admin",
+		"/C/Web/wamp/www/sellphone-laravel"
+	],
+	"last_version": 3126,
+	"last_window_id": 16,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pro",
+						"product"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "pro",
+				"selected_items":
+				[
+					[
+						"pro",
+						"Project: Close"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Install Package Control"
+					],
+					[
+						"INSTL",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"projec",
+						"Project: Close"
+					]
+				],
+				"width": 833.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Web/wamp/www/sellphonelaravel/public/js/js-live-search.js",
+				"/C/Web/wamp/www/sellphonelaravel/config/database.php",
+				"/C/Web/wamp/www/sellphonelaravel/.env",
+				"/C/Web/wamp/www/sellphonelaravel/composer.json",
+				"/C/Users/hoang/AppData/Roaming/Sublime Text 3/Packages/User/Projects/sellphone-laravel-openshift.sublime-project",
+				"/C/Web/wamp/www/sellphonelaravel/ok",
+				"/C/Web/wamp/www/sellphonelaravel/resources/views/site/trademarks.blade.php",
+				"/C/Web/wamp/www/sellphonelaravel/resources/views/site/detail.blade.php",
+				"/C/Web/wamp/www/sellphonelaravel/resources/views/site/categories.blade.php",
+				"/C/Web/wamp/www/sellphonelaravel/resources/views/home.blade.php",
+				"/C/Web/wamp/www/sellphonelaravel/resources/views/bussiness.blade.php",
+				"/C/Web/wamp/www/sellphonelaravel/resources/views/site/products.blade.php",
+				"/C/Web/wamp/www/sellphonelaravel/config/app.php",
+				"/C/Web/wamp/www/sellphone-laravel/.env",
+				"/C/Web/wamp/www/sellphone-laravel/config/database.php",
+				"/C/Web/wamp/www/sellphone-laravel/resources/views/site/detail.blade.php",
+				"/C/Web/wamp/www/sellphone-laravel/resources/views/home.blade.php",
+				"/C/Web/wamp/www/sellphone-laravel/resources/views/bussiness.blade.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Http/Controllers/ProductsController.php",
+				"/C/Web/wamp/www/sellphone-laravel/config/app.php",
+				"/C/Web/wamp/www/sellphone-laravel/vendor/symfony/debug/Symfony/Component/Debug/composer.json",
+				"/C/Web/wamp/www/sellphone-laravel/composer.json",
+				"/C/Web/wamp/www/sellphone-laravel/gulpfile.js",
+				"/C/Web/wamp/www/sellphone-laravel/composer.lock",
+				"/C/Web/wamp/www/sellphone-laravel/update Model Generator",
+				"/C/Web/wamp/www/sellphone-laravel/app/Http/Controllers/DashboardController.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Http/routes.php",
+				"/C/Web/wamp/www/sellphone-laravel/vendor/laravel/framework/src/Illuminate/Routing/Route.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Http/Controllers/Controller.php",
+				"/C/Web/wamp/www/sellphone-laravel/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+				"/C/Web/wamp/www/sellphone-laravel/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php",
+				"/C/Web/wamp/www/sellphone-laravel/vendor/laravel/framework/src/Illuminate/Auth/DatabaseUserProvider.php",
+				"/C/Web/wamp/www/sellphone-laravel/vendor/laravel/framework/src/Illuminate/Contracts/Auth/UserProvider.php",
+				"/C/Web/wamp/www/sellphone-laravel/public/.htaccess",
+				"/C/Web/wamp/www/sellphone-laravel/app/Http/Controllers/BussinessController.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Http/Controllers/Auth/AuthController.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Http/Middleware/Authenticate.php",
+				"/C/Web/wamp/www/sellphone-laravel/vendor/laravel/framework/src/Illuminate/Auth/Guard.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Http/Controllers/Auth/PasswordController.php",
+				"/C/Web/wamp/www/sellphone-laravel/abc.html",
+				"/C/Web/wamp/www/sellphone-laravel/app/Models/LiveSearch.php",
+				"/C/Web/wamp/www/sellphone-laravel/resources/views/site/categories.blade.php",
+				"/C/Web/wamp/www/sellphone-laravel/resources/views/site/trademarks.blade.php",
+				"/C/Web/wamp/www/sellphone-laravel/resources/views/site/products.blade.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Http/Controllers/CategoriesController.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Models/Product.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Models/Category.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Http/Controllers/ProductController.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Models/View/TrademarkByCategories.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Http/Controllers/WelcomeController.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Providers/AppServiceProvider.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Models/ProductDetail.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Models/Trademark.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Models/User.php"
+			],
+			"find":
+			{
+				"height": 48.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"file_exclude_patterns"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 44.0
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"database",
+						"config\\database.php"
+					],
+					[
+						"control",
+						"app\\Http\\Controllers\\Controller.php"
+					],
+					[
+						"con",
+						"app\\Http\\Controllers\\Controller.php"
+					],
+					[
+						"route",
+						"app\\Http\\routes.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 292.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"query",
+						"queryString"
+					],
+					[
+						"coo",
+						"cookie"
+					],
+					[
+						"se",
+						"serialize\t.serialize()"
+					],
+					[
+						"if",
+						"ife\tif … else"
+					],
+					[
+						"la",
+						"lastname"
+					],
+					[
+						"first",
+						"firstname"
+					],
+					[
+						"cons",
+						"console.\tconsole.log()"
+					],
+					[
+						"pos",
+						"post\t$.post()"
+					],
+					[
+						"script",
+						"script\tTag"
+					],
+					[
+						"add",
+						"address"
+					],
+					[
+						"conso",
+						"console.\tconsole.log()"
+					],
+					[
+						"listen",
+						"listener"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"pro",
+						"product"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/NodeJs/baitap1/demomysql.js",
+					"settings":
+					{
+						"buffer_size": 1703,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/NodeJs/baitap1/orm.js",
+					"settings":
+					{
+						"buffer_size": 424,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/NodeJs/baitap1/views/pages/mysql.ejs",
+					"settings":
+					{
+						"buffer_size": 765,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pro",
+						"Project: Close"
+					],
+					[
+						"instal",
+						"Install Package Control"
+					],
+					[
+						"INSTL",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"projec",
+						"Project: Close"
+					]
+				],
+				"width": 646.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/NodeJs/baitap1",
+				"/E/NodeJs/baitap1/views/pages"
+			],
+			"file_history":
+			[
+				"/E/NodeJs/baitap1/node_modules/mime/mime.js",
+				"/E/NodeJs/baitap1/views/pages/upload.ejs",
+				"/E/NodeJs/baitap1/views/pages/baitap1.ejs",
+				"/E/NodeJs/baitap1/views/pages/mysql.ejs",
+				"/E/NodeJs/baitap1/views/pages/page.ejs",
+				"/E/NodeJs/baitap1/baitap1.js",
+				"/E/NodeJs/baitap1/multer.js",
+				"/E/NodeJs/baitap1/html.html",
+				"/E/NodeJs/baitap1/public/upload/fileToUpload-14780729896610ujrAT.jpg",
+				"/E/NodeJs/baitap1/public/upload/fileToUpload-1478072924917",
+				"/E/NodeJs/baitap1/server-02.js",
+				"/E/NodeJs/baitap1/server.js",
+				"/E/NodeJs/baitap1/views/pages/cookie.ejs",
+				"/E/NodeJs/baitap1/cookie.js",
+				"/E/NodeJs/baitap1/views/pages/updload.ejs",
+				"/E/NodeJs/baitap1/package.json",
+				"/E/NodeJs/baitap1/views/index.ejs",
+				"/E/Fontend/Teamplates/Vanillas/index.html",
+				"/E/NodeJs/baitap1/public/css/style.css",
+				"/C/Web/wamp/www/sellphonelaravel/public/js/js-live-search.js",
+				"/C/Web/wamp/www/sellphonelaravel/config/database.php",
+				"/C/Web/wamp/www/sellphonelaravel/.env",
+				"/C/Web/wamp/www/sellphonelaravel/composer.json",
+				"/C/Users/hoang/AppData/Roaming/Sublime Text 3/Packages/User/Projects/sellphone-laravel-openshift.sublime-project",
+				"/C/Web/wamp/www/sellphonelaravel/ok",
+				"/C/Web/wamp/www/sellphonelaravel/resources/views/site/trademarks.blade.php",
+				"/C/Web/wamp/www/sellphonelaravel/resources/views/site/detail.blade.php",
+				"/C/Web/wamp/www/sellphonelaravel/resources/views/site/categories.blade.php",
+				"/C/Web/wamp/www/sellphonelaravel/resources/views/home.blade.php",
+				"/C/Web/wamp/www/sellphonelaravel/resources/views/bussiness.blade.php",
+				"/C/Web/wamp/www/sellphonelaravel/resources/views/site/products.blade.php",
+				"/C/Web/wamp/www/sellphonelaravel/config/app.php",
+				"/C/Web/wamp/www/sellphone-laravel/.env",
+				"/C/Web/wamp/www/sellphone-laravel/config/database.php",
+				"/C/Web/wamp/www/sellphone-laravel/resources/views/site/detail.blade.php",
+				"/C/Web/wamp/www/sellphone-laravel/resources/views/home.blade.php",
+				"/C/Web/wamp/www/sellphone-laravel/resources/views/bussiness.blade.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Http/Controllers/ProductsController.php",
+				"/C/Web/wamp/www/sellphone-laravel/config/app.php",
+				"/C/Web/wamp/www/sellphone-laravel/vendor/symfony/debug/Symfony/Component/Debug/composer.json",
+				"/C/Web/wamp/www/sellphone-laravel/composer.json",
+				"/C/Web/wamp/www/sellphone-laravel/gulpfile.js",
+				"/C/Web/wamp/www/sellphone-laravel/composer.lock",
+				"/C/Web/wamp/www/sellphone-laravel/update Model Generator",
+				"/C/Web/wamp/www/sellphone-laravel/app/Http/Controllers/DashboardController.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Http/routes.php",
+				"/C/Web/wamp/www/sellphone-laravel/vendor/laravel/framework/src/Illuminate/Routing/Route.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Http/Controllers/Controller.php",
+				"/C/Web/wamp/www/sellphone-laravel/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+				"/C/Web/wamp/www/sellphone-laravel/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php",
+				"/C/Web/wamp/www/sellphone-laravel/vendor/laravel/framework/src/Illuminate/Auth/DatabaseUserProvider.php",
+				"/C/Web/wamp/www/sellphone-laravel/vendor/laravel/framework/src/Illuminate/Contracts/Auth/UserProvider.php",
+				"/C/Web/wamp/www/sellphone-laravel/public/.htaccess",
+				"/C/Web/wamp/www/sellphone-laravel/app/Http/Controllers/BussinessController.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Http/Controllers/Auth/AuthController.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Http/Middleware/Authenticate.php",
+				"/C/Web/wamp/www/sellphone-laravel/vendor/laravel/framework/src/Illuminate/Auth/Guard.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Http/Controllers/Auth/PasswordController.php",
+				"/C/Web/wamp/www/sellphone-laravel/abc.html",
+				"/C/Web/wamp/www/sellphone-laravel/app/Models/LiveSearch.php",
+				"/C/Web/wamp/www/sellphone-laravel/resources/views/site/categories.blade.php",
+				"/C/Web/wamp/www/sellphone-laravel/resources/views/site/trademarks.blade.php",
+				"/C/Web/wamp/www/sellphone-laravel/resources/views/site/products.blade.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Http/Controllers/CategoriesController.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Models/Product.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Models/Category.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Http/Controllers/ProductController.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Models/View/TrademarkByCategories.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Http/Controllers/WelcomeController.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Providers/AppServiceProvider.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Models/ProductDetail.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Models/Trademark.php",
+				"/C/Web/wamp/www/sellphone-laravel/app/Models/User.php"
+			],
+			"find":
+			{
+				"height": 48.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"body",
+					"bod",
+					"file_exclude_patterns"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "E:\\NodeJs\\baitap1"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/NodeJs/baitap1/demomysql.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1703,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1239,
+										1239
+									],
+									[
+										1512,
+										1512
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Palenight.tmTheme",
+									"open_with_edit": true,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 513.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/NodeJs/baitap1/orm.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 424,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										264,
+										264
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Palenight.tmTheme",
+									"open_with_edit": true,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/NodeJs/baitap1/views/pages/mysql.ejs",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 765,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										580,
+										584
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Palenight.tmTheme",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 44.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "1,2,3,-1,-1,-1,-1,643,104,104,760",
+			"project": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"database",
+						"config\\database.php"
+					],
+					[
+						"control",
+						"app\\Http\\Controllers\\Controller.php"
+					],
+					[
+						"con",
+						"app\\Http\\Controllers\\Controller.php"
+					],
+					[
+						"route",
+						"app\\Http\\routes.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"xdebug":
+				{
+					"hide_conflict": false
+				}
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 294.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 8,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/C/Users/hoang/AppData/Roaming/Sublime Text 3/Packages/User/Projects/sellphone-laravel-openshift.sublime-workspace",
+			"/C/Users/hoang/AppData/Roaming/Sublime Text 3/Packages/User/Projects/javascript.sublime-workspace",
+			"/C/Users/hoang/AppData/Roaming/Sublime Text 3/Packages/User/Projects/masonry.sublime-workspace",
+			"/C/Users/hoang/AppData/Roaming/Sublime Text 3/Packages/User/Projects/sellphone-business.sublime-workspace",
+			"/C/Users/hoang/AppData/Roaming/Sublime Text 3/Packages/User/Projects/digitalzone.sublime-workspace",
+			"/C/Users/hoang/AppData/Roaming/Sublime Text 3/Packages/User/Projects/digitalzone_admin.sublime-workspace"
+		]
+	}
+}
